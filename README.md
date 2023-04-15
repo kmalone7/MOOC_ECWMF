@@ -6,4 +6,4 @@ This course had three tiers:
   2. Tier 2: Concepts of Machine Learning <br>
   3. Tier 3: Practical ML applications in Weather & Climate <br>
 
-Further information can be found [here](https://lms.ecmwf.int/?redirect=0) <br>
+Further information can be found [here](https://lms.ecmwf.int/?redirect=0) <br> and their [Github](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate) 
